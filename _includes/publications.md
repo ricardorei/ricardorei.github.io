@@ -11,7 +11,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.11806">The Inside Story: Towards Better Understanding of Machine Translation Neural Evaluation Metrics </a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2305.11806.pdf">The Inside Story: Towards Better Understanding of Machine Translation Neural Evaluation Metrics </a></div>
     <div class="author"><strong>Ricardo Rei</strong>, Nuno M. Guerreiro, Marcos Treviso, André F.T. Martins</div>
     <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2023.</em></div>
     <div class="links">
