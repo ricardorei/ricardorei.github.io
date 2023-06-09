@@ -23,6 +23,7 @@ Beyond the realms of academia and research, I have a strong connection with the 
 • **Aug 2022** : Led the winning submission to the WMT 2022 Shared Task on Quality Estimation held at EMNLP 2022 <br />
 • **Aug 2022** : Paper accepted at EMNLP 2022 (main) <br />
 • **Aug 2022** : 🎉 Received EAMT 2022 Best paper award! <br />
+• **May 2022** : For the next 3 months I'll be visiting CMU! <br />
 • **May 2022** : Paper accepted at EAMT 2022 (research track) <br />
 • **Apr 2022** : Paper accepted at NAACL 2022 (main) <br />
 • **Nov 2021** : Panel discussion on evaluation held at [WMT](https://www.statmt.org/wmt21/program.html) <br />
