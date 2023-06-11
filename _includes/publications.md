@@ -6,6 +6,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/comet.jpeg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">EMNLP 20</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;">
+    <div class="title"><a href="https://aclanthology.org/2020.emnlp-main.213/">COMET: A Neural Framework for MT Evaluation </a></div>
+    <div class="author"><strong>Ricardo Rei</strong>, Craig Stewart, Ana C Farinha, Alon Lavie</div>
+    <div class="periodical"><em>2020 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://aclanthology.org/2020.emnlp-main.213.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Unbabel/COMET/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://slideslive.com/38938781/comet-a-neural-framework-for-mt-evaluation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/inside-story.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACL 23</abbr>
   </div>
@@ -80,27 +100,6 @@
   </div>
 </div>
 </li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/comet.jpeg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EMNLP 20</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;width: 100%;">
-    <div class="title"><a href="https://aclanthology.org/2020.emnlp-main.213/">COMET: A Neural Framework for MT Evaluation </a></div>
-    <div class="author"><strong>Ricardo Rei</strong>, Craig Stewart, Ana C Farinha, Alon Lavie</div>
-    <div class="periodical"><em>2020 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://aclanthology.org/2020.emnlp-main.213.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Unbabel/COMET/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://slideslive.com/38938781/comet-a-neural-framework-for-mt-evaluation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-    </div>
-  </div>
-</div>
-</li>
-
 
 <br>
 
