@@ -6,11 +6,11 @@ layout: homepage
 
 Welcome to my profile! I am currently in the final year of my PhD program, pursuing research in Machine Translation. My doctoral studies are part of a collaborative project known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/), which is a partnership between Unbabel, Instituto Superior Técnico (IST), and Carnegie Mellon University (CMU).
 
-Under the guidance and supervision of Alon Lavie, who is affiliated with both Unbabel and CMU, and Luisa Coheur from IST, I have been conducting cutting-edge research in the area of Machine Translation Evaluation. Throughout my academic journey, I have also explored other domains within NLP, including Automatic Transcription Enrichment and Dialog Systems.
+Under the guidance and supervision of [Alon Lavie](http://www.cs.cmu.edu/~alavie/), who is affiliated with both Unbabel and CMU, and [Luísa Coheur](https://www.hlt.inesc-id.pt/w/Lu%C3%ADsa_Coheur) from IST, I have been conducting cutting-edge research in the area of Machine Translation Evaluation. Throughout my academic journey, I have also explored other domains within NLP, including Automatic Transcription Enrichment and Dialog Systems.
 
 One of the notable contributions I have made to the field of MT is the development of [COMET (Cross-lingual Optimized Metric for Evaluation of Translation)](https://github.com/Unbabel/COMET), an open-source framework dedicated to evaluating machine translation systems.
 
-Beyond the realms of academia and research, I have a strong connection with the vibrant coastal city of Lisbon. In my leisure time, you can often find me surfing the waves that grace the shores of Lisbon.
+Beyond the realms of academia and research, I have a strong connection with the vibrant coastal city of Lisbon. In my leisure time, you can often find me surfing the waves around Lisbon.
 
 ## Recent News
 • **June 2023**: Keynote at [Machine Translation Marathon in the Americas](https://mtma23.github.io/program.html),   <br />

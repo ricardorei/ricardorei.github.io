@@ -65,6 +65,25 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/online-learning.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACL 21</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;">
+    <div class="title"><a href="https://aclanthology.org/2021.acl-long.242/">Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort </a></div>
+    <div class="author">Vânia Mendonça, <strong>Ricardo Rei</strong>, Luisa Coheur, Alberto Sardinha, Ana Lúcia Santos</div>
+    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing <strong>(ACL | IJCNLP)</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://aclanthology.org/2021.acl-long.242.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://aclanthology.org/2021.acl-long.242.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/comet.jpeg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">EMNLP 20</abbr>
   </div>
