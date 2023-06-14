@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Welcome to my profile! I am currently in the final year of my PhD program, pursuing research in Machine Translation. My doctoral studies are part of a collaborative project known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/), which is a partnership between Unbabel, Instituto Superior Técnico (IST), and Carnegie Mellon University (CMU).
+Welcome to my profile! I am currently in the final year of my PhD, doing research in Machine Translation. My PhD is part of a collaborative project known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/), which is a partnership between Unbabel, Instituto Superior Técnico (IST), and Carnegie Mellon University (CMU).
 
-Under the guidance and supervision of [Alon Lavie](http://www.cs.cmu.edu/~alavie/), who is affiliated with both Unbabel and CMU, and [Luísa Coheur](https://www.hlt.inesc-id.pt/w/Lu%C3%ADsa_Coheur) from IST, I have been conducting cutting-edge research in the area of Machine Translation Evaluation. Throughout my academic journey, I have also explored other domains within NLP, including Automatic Transcription Enrichment and Dialog Systems.
+My supervisors are [Alon Lavie](http://www.cs.cmu.edu/~alavie/), from Unbabel and CMU, and [Luísa Coheur](https://www.hlt.inesc-id.pt/w/Lu%C3%ADsa_Coheur) from IST.
 
-One of the notable contributions I have made to the field of MT is the development of [COMET (Cross-lingual Optimized Metric for Evaluation of Translation)](https://github.com/Unbabel/COMET), an open-source framework dedicated to evaluating machine translation systems.
+The main topic of my thesis has been Machine Translation Evaluation yet, throughout my academic journey, I have also worked on other NLP tasks such as Automatic Transcription Enrichment and Dialog Systems.
 
-Beyond the realms of academia and research, I have a strong connection with the vibrant coastal city of Lisbon. In my leisure time, you can often find me surfing the waves around Lisbon.
+Beyond my academic life, I have a strong connection with the ocean and in my free time, you can often find me surfing 🏄‍♂️.
 
 ## Recent News
 • **June 2023**: Keynote at [Machine Translation Marathon in the Americas](https://mtma23.github.io/program.html),   <br />
