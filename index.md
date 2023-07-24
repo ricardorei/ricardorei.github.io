@@ -6,13 +6,14 @@ layout: homepage
 
 Welcome to my profile! I am currently in the final year of my PhD, doing research in Machine Translation. My PhD is part of a collaborative project known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/), which is a partnership between Unbabel, Instituto Superior Técnico (IST), and Carnegie Mellon University (CMU).
 
-My supervisors are [Alon Lavie](http://www.cs.cmu.edu/~alavie/), from Unbabel and CMU, and [Luísa Coheur](https://www.hlt.inesc-id.pt/w/Lu%C3%ADsa_Coheur) from IST.
+My supervisors are [Alon Lavie](http://www.cs.cmu.edu/~alavie/), from CMU, and [Luísa Coheur](https://www.hlt.inesc-id.pt/w/Lu%C3%ADsa_Coheur) from IST.
 
 The main topic of my thesis has been Machine Translation Evaluation yet, throughout my academic journey, I have also worked on other NLP tasks such as Automatic Transcription Enrichment and Dialog Systems.
 
 Beyond my academic life, I have a strong connection with the ocean and in my free time, you can often find me surfing 🏄‍♂️.
 
 ## Recent News
+• **August 2023**: Keynote at [Sixteenth MT Marathon 2023](https://mtm23.cs.ut.ee/)<br />
 • **June 2023**: Keynote at [Machine Translation Marathon in the Americas](https://mtma23.github.io/program.html),   <br />
 • **May 2023** : Our paper "The Inside Story" was accepted at ACL 2023 (main) <br />
 • **Sep 2022** : Invited lecture at [Fifteenth Machine Translation Marathon, Prague](https://ufal.mff.cuni.cz/mtm22/programme.html) <br />
