@@ -6,6 +6,24 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://media.licdn.com/dms/image/D4E10AQHY4ki8ljwhgA/image-shrink_800/0/1707757977755?e=2147483647&v=beta&t=qx0nkZcwq7pdjC1yOfv1FzPlzmOiI8iGg3PIYIAWGg4" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ACL 23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;">
+    <div class="title"><a href="https://arxiv.org/pdf/2402.17733.pdf">TowerLLM: An Open Multilingual Large Language Model for Translation-Related Tasks </a></div>
+    <div class="author">Duarte M. Alves, José Pombal, Nuno M. Guerreiro, Pedro H. Martins, João Alves, Amin Farajian, Ben Peters, <strong>Ricardo Rei</strong>, Patrick Fernandes, Sweta Agrawal, Pierre Colombo, José G.C. de Souza, André F.T. Martins</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2402.17733" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://huggingface.co/collections/Unbabel/tower-659eaedfe36e6dd29eb1805c" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/inside-story.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACL 23</abbr>
   </div>
