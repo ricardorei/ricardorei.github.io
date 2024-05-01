@@ -7,7 +7,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://media.licdn.com/dms/image/D4E10AQHY4ki8ljwhgA/image-shrink_800/0/1707757977755?e=2147483647&v=beta&t=qx0nkZcwq7pdjC1yOfv1FzPlzmOiI8iGg3PIYIAWGg4" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ACL 23</abbr>
+    <abbr class="badge">arXiv 2024</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;">
