@@ -4,21 +4,31 @@ layout: homepage
 
 ## About Me
 
-My name is Ricardo Rei, and I am a Senior Research Scientist at Unbabel, where I focus on research in multilingual Large Language Models (LLM) and Machine Translation. Recently, I completed my PhD at Instituto Superior Técnico (IST), University of Lisbon, earning the distinction of Summa cum laude for my work on Machine Translation evaluation. This doctoral journey was part of a collaborative program between Unbabel, IST, and Carnegie Mellon University (CMU), known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/).
+I'm Ricardo Rei, a Senior Research Scientist at Unbabel leading research on multilingual Large Language Models. My work focuses on LLM evaluation, post-training techniques, and advancing machine translation capabilities across languages.
+I recently completed my PhD at Instituto Superior Técnico (IST), University of Lisbon, graduating with the distinction of Summa cum laude for my research on machine translation evaluation. My doctoral work was conducted through a collaborative program between Unbabel, IST, and Carnegie Mellon University (CMU), known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/).
 
-During my PhD, I was under the guidance of Alon Lavie from CMU and Luísa Coheur from IST. While the primary focus of my thesis was Machine Translation Evaluation, my academic journey also involved exploring other areas within Natural Language Processing (NLP), such as decoding, uncertainty and efficient NLP.
+**Last update**: 11-04-2025
 
-Beyond academia, I have a passion for sports and I am an avid surfer 🏄‍♂️. Currently, I split my time between London and Lisbon.
+## Teaching & Mentorship:
+Currently co-advise PhD students working on LLM evaluation, post-training, and culturally-informed AI agents.
+- [José Pombal](https://zeppombal.github.io/): Working on LLM evaluation and post-training. He is one of the main authors of Tower LLM.
+- **Helena Wu**: Developing Culturally-Informed AI Agent and Personae.
 
 ## Recent News
+• **Apr 2025**: 🎉 Received [EAMT Best Thesis award!](https://eamt.org/best-thesis-award/) <br />
+• **Apr 2025**: Keynote at [Globalization and Localization Association Annual Conference (GALA)](https://www.gala-global.org/events/events-calendar/gala-2025-montreal) <br />
+• **Mar 2025**: We are releasing [EuroBERT models](https://huggingface.co/EuroBERT) and [paper](https://arxiv.org/pdf/2503.05500)! <br />
+• **Dec 2024**: We are releasing [EuroLLM 9B](https://huggingface.co/blog/eurollm-team/eurollm-9b) supporting 35 languages! <br />
 
-• **June 2024**: Keynote at [First International Workshop on Knowledge-Enhanced Machine Translation](https://kemt2024.wixsite.com/home)<br />
-• **Feb 2024**: We released 🗼 [TowerLLM: An Open LLM for Translation-Related Tasks](https://arxiv.org/pdf/2402.17733.pdf)<br />
 
 {% include_relative _includes/publications.md %}
 
 ## Past News
-
+• **Nov 2024**: Keynote at [NINTH CONFERENCE ON MACHINE TRANSLATION (WMT24)](https://www2.statmt.org/wmt24/program.html) <br />
+• **Nov 2024**: Keynote at [Sword AI Summit 24](https://aisummit.swordhealth.com/) <br />
+• **Oct 2024**: 🏆 [Tower v2](https://aclanthology.org/2024.wmt-1.12/) ranked first on the [WMT General Translation Task](https://www2.statmt.org/wmt24/translation-task.html), <br />
+• **June 2024**: Keynote at [First International Workshop on Knowledge-Enhanced Machine Translation](https://kemt2024.wixsite.com/home)<br />
+• **Feb 2024**: We released 🗼 [TowerLLM: An Open LLM for Translation-Related Tasks](https://arxiv.org/pdf/2402.17733.pdf)<br />
 • **December 2023**: 🏆 [xCOMET](https://arxiv.org/pdf/2310.10482.pdf) got first place on the [WMT 23 Metrics Shared Task](https://aclanthology.org/2023.wmt-1.51.pdf),   <br />
 • **Oct 2023** : Paper accepted at WMT 23 (shared task paper) <br />
 • **Oct 2023** : Paper accepted at EMNLP 2023 (findings) <br />
