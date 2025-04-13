@@ -14,6 +14,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;">
     <div class="title"><a href="https://aclanthology.org/2024.wmt-1.12/">Tower v2: Unbabel-IST 2024 Submission for the General MT Shared Task </a></div>
     <div class="author"><strong>Ricardo Rei*</strong>, Jose Pombal*, Nuno M. Guerreiro*, João Alves*, Pedro Henrique Martins*, Patrick Fernandes, Helena Wu, Tania Vaz, Duarte Alves, Amin Farajian, Sweta Agrawal, Antonio Farinhas, José G. C. De Souza, André Martins</div>
+    <div class="periodical"><em>Ninth Conference on Machine Translation <strong>(WMT24)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://aclanthology.org/2024.wmt-1.12.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -49,6 +50,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.17733.pdf">TowerLLM: An Open Multilingual Large Language Model for Translation-Related Tasks </a></div>
     <div class="author">Duarte M. Alves*, José Pombal*, Nuno M. Guerreiro*, Pedro H. Martins, João Alves, Amin Farajian, Ben Peters, <strong>Ricardo Rei</strong>, Patrick Fernandes, Sweta Agrawal, Pierre Colombo, José G.C. de Souza, André F.T. Martins</div>
+    <div class="periodical"><em>First Conference on Language Modeling <strong>(COLM)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2402.17733" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://huggingface.co/collections/Unbabel/tower-659eaedfe36e6dd29eb1805c" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
