@@ -7,7 +7,7 @@ layout: homepage
 I'm Ricardo Rei, a Senior Research Scientist at Unbabel leading research on multilingual Large Language Models. My work focuses on LLM evaluation, post-training techniques, and advancing machine translation capabilities across languages.
 I recently completed my PhD at Instituto Superior Técnico (IST), University of Lisbon, graduating with the distinction of Summa cum laude for my research on machine translation evaluation. My doctoral work was conducted through a collaborative program between Unbabel, IST, and Carnegie Mellon University (CMU), known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/).
 
-**Last update**: 11-04-2025
+**Last update**: 17-04-2025
 
 ## Teaching & Mentorship:
 Currently co-advise PhD students working on LLM evaluation, post-training, and culturally-informed AI agents.
@@ -15,6 +15,7 @@ Currently co-advise PhD students working on LLM evaluation, post-training, and c
 - **Helena Wu**: Developing Culturally-Informed AI Agent and Personae.
 
 ## Recent News
+• **Jun 2025**: I'll be part of a panel dicussion at [Massively Multilingual AI Conference 2025](https://www.taus.net/events/massively-multilingual-ai-conference-dublin-2025/) <br />
 • **Apr 2025**: 🎉 Received [EAMT Best Thesis award!](https://eamt.org/best-thesis-award/) <br />
 • **Apr 2025**: Keynote at [Globalization and Localization Association Annual Conference (GALA)](https://www.gala-global.org/events/events-calendar/gala-2025-montreal) <br />
 • **Mar 2025**: We are releasing [EuroBERT models](https://huggingface.co/EuroBERT) and [paper](https://arxiv.org/pdf/2503.05500)! <br />
