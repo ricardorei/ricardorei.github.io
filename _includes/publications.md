@@ -7,6 +7,24 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Tower-plus-pareto.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;">
+    <div class="title"><a href="https://arxiv.org/abs/2506.17080">Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs </a></div>
+    <div class="author"><strong>Ricardo Rei*</strong>, Nuno M. Guerreiro*, Jose Pombal*, João Alves*, Pedro Teixeirinha, Amin Farajian, André Martins</div>
+    <div class="periodical"><em>ArXiv, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2506.17080" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Tower-WMT.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WMT 2024</abbr>
   </div>

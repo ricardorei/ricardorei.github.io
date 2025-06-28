@@ -4,27 +4,34 @@ layout: homepage
 
 ## About Me
 
-I'm Ricardo Rei, a Senior Research Scientist at Unbabel leading research on multilingual Large Language Models. My work focuses on LLM evaluation, post-training techniques, and advancing machine translation capabilities across languages.
-I recently completed my PhD at Instituto Superior Técnico (IST), University of Lisbon, graduating with the distinction of Summa cum laude for my research on machine translation evaluation. My doctoral work was conducted through a collaborative program between Unbabel, IST, and Carnegie Mellon University (CMU), known as [Multilingual AI Agents Assistants (MAIA)](https://www.cmuportugal.org/large-scale-collaborative-research-projects/maia/).
+I'm Ricardo Rei, Head of AI Research at [Sword Health](https://swordhealth.com/), where I'm leading work on multimodal foundational models for the healthcare sector. My focus is on advancing the development, evaluation, and deployment of AI systems that can improve patient outcomes and healthcare delivery.
 
-**Last update**: 17-04-2025
+Previously, I was a Senior Research Scientist at Unbabel, leading research on multilingual Large Language Models. My work there spanned LLM evaluation, post-training techniques, and advancing machine translation capabilities across languages.
+
+I completed my PhD at Instituto Superior Técnico (IST), University of Lisbon, graduating with the distinction of Summa cum laude for my research on machine translation evaluation. My doctoral work was conducted through a collaborative program between Unbabel, IST, and Carnegie Mellon University (CMU), known as Multilingual AI Agents Assistants (MAIA).
+
+**Last update**: 28-06-2025
 
 ## Teaching & Mentorship:
 Currently co-advise PhD students working on LLM evaluation, post-training, and culturally-informed AI agents.
-- [José Pombal](https://zeppombal.github.io/): Working on LLM evaluation and post-training. He is one of the main authors of Tower LLM.
+- [José Pombal](https://zeppombal.github.io/): Working on LLM evaluation and post-training.
 - **Helena Wu**: Developing Culturally-Informed AI Agent and Personae.
 
 ## Recent News
+• **Jul 2025**: 🎉 I am joining [Sword Health](https://swordhealth.com/) to work on foundational models for Healthcare <br />
+• **Jun 2025**: Presented at [MT Summit 2025, Geneve](hhttps://mtsummit2025.unige.ch/) where I received the EAMT 2024 Best Thesis Award <br />
+• **Jun 2025**: We are releasing [Tower+ models](https://huggingface.co/collections/Unbabel/tower-plus-6846ca452a10c0905dc03c0f) and [paper](https://arxiv.org/abs/2506.17080). <br />
+• **Jun 2024**: We are releasing [EuroLLM 22B preview](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-Preview) supporting 35 languages! <br />
 • **Jun 2025**: I'll be part of a panel dicussion at [Massively Multilingual AI Conference 2025](https://www.taus.net/events/massively-multilingual-ai-conference-dublin-2025/) <br />
 • **Apr 2025**: 🎉 Received [EAMT Best Thesis award!](https://eamt.org/best-thesis-award/) <br />
 • **Apr 2025**: Keynote at [Globalization and Localization Association Annual Conference (GALA)](https://www.gala-global.org/events/events-calendar/gala-2025-montreal) <br />
 • **Mar 2025**: We are releasing [EuroBERT models](https://huggingface.co/EuroBERT) and [paper](https://arxiv.org/pdf/2503.05500)! <br />
-• **Dec 2024**: We are releasing [EuroLLM 9B](https://huggingface.co/blog/eurollm-team/eurollm-9b) supporting 35 languages! <br />
 
 
 {% include_relative _includes/publications.md %}
 
 ## Past News
+• **Dec 2024**: We are releasing [EuroLLM 9B](https://huggingface.co/blog/eurollm-team/eurollm-9b) supporting 35 languages! <br />
 • **Nov 2024**: Keynote at [NINTH CONFERENCE ON MACHINE TRANSLATION (WMT24)](https://www2.statmt.org/wmt24/program.html) <br />
 • **Nov 2024**: Keynote at [Sword AI Summit 24](https://aisummit.swordhealth.com/) <br />
 • **Oct 2024**: 🏆 [Tower v2](https://aclanthology.org/2024.wmt-1.12/) ranked first on the [WMT General Translation Task](https://www2.statmt.org/wmt24/translation-task.html), <br />
